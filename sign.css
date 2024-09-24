@@ -1,0 +1,14 @@
+/* css for login and register */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@media screen and (max-width:996px){
+  .w-50{
+    min-width: 100vw !important;
+  }
+}
+nav .navbar{
+ width: 100%;
+}
